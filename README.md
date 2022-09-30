@@ -11,7 +11,7 @@ created using FastAPI
 
 
 
-# urls avaliable:
+# Urls avaliable:
 
 Method    | URL  :-  Description
 
